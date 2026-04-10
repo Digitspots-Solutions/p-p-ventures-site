@@ -1,0 +1,42 @@
+{
+  "businessName": "P & P Ventures",
+  "industry": "Trading",
+  "tone": "professional",
+  "tagline": "Your Trusted Trading Partner in Delta State",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to P & P Ventures - Your premier trading partner in Warri, Delta State. We deliver quality products and reliable service to businesses and individuals across the Niger Delta region.",
+      "imagePrompt": "Modern Nigerian trading warehouse interior with organized shelves of diverse products, natural daylight streaming through large windows, professional staff in branded uniforms arranging merchandise, clean and spacious commercial space in Warri, Delta State, photorealistic, high quality",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "P & P Ventures is a dynamic trading company based in Effurun, Warri, strategically positioned to serve the commercial needs of Delta State and beyond. We specialize in sourcing, supplying, and distributing quality products across various sectors. Our commitment to excellence, reliability, and customer satisfaction has established us as a trusted name in the trading industry. Located along PhD Road in Uvwie, we combine local market knowledge with professional service standards to meet the diverse needs of our clients.",
+      "imagePrompt": "Professional Nigerian business handshake in modern office setting, diverse team members in business attire, backdrop showing Warri cityscape through office windows, warm natural lighting, representing trust and partnership in Delta State business environment, photorealistic",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "At P & P Ventures, we offer comprehensive trading solutions tailored to your needs:\n\n**Product Sourcing & Supply**: We connect you with quality products from verified suppliers, ensuring competitive pricing and timely delivery.\n\n**Wholesale & Retail Distribution**: Whether you need bulk orders or retail quantities, we handle your distribution requirements efficiently.\n\n**Business Partnerships**: We facilitate trade relationships between buyers and sellers, creating mutually beneficial business opportunities.\n\n**Logistics Support**: Our strategic location in Effurun allows us to coordinate seamless delivery across Delta State and neighboring regions.\n\n**Market Intelligence**: Benefit from our deep understanding of local market trends and pricing to make informed trading decisions.",
+      "imagePrompt": "Busy Nigerian trading floor with organized product displays, delivery trucks being loaded in background, professional staff managing inventory with clipboards and tablets, vibrant commercial atmosphere in Warri, variety of goods on shelves, photorealistic, bright natural lighting",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to do business with P & P Ventures? We're here to serve you.\n\n**Visit Us:**\nNo 11, Niemogha Avenue, Along PhD Road\nOpp Pearl Clinic, Effurun\nWarri, Delta State\n\n**Call Us:**\n+234 816 796 8074\n\n**Location:**\nUvwie LGA, Delta State, Nigeria\n\nOur office is open Monday to Saturday, and we're always ready to discuss your trading needs. Whether you're looking to source products, establish supply chains, or explore business opportunities, P & P Ventures is your reliable partner in the Niger Delta region.",
+      "imagePrompt": "Professional Nigerian office reception area with comfortable seating, modern desk with receptionist, visible signage for P & P Ventures, large windows showing Warri street view, welcoming and organized atmosphere, potted plants, photorealistic, warm lighting",
+      "layout": "default"
+    }
+  ],
+  "contact": {
+    "phone": "+234 816 796 8074",
+    "email": "",
+    "address": "No 11, Niemogha Avenue, Along PhD Road, Opp Pearl Clinic, Effurun, Warri, Delta State",
+    "whatsapp": "https://wa.me/2348167968074"
+  }
+}
